@@ -1,2 +1,2 @@
 # puzzle-game
-Developed With python , tkinter library 
+Developed With java , javafx Scene builder 
